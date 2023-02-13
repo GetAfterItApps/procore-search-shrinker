@@ -1,0 +1,13 @@
+div:has(> #nav-bar-search) {
+  flex: none !important;
+}
+
+#nav-bar-search {
+  width: 35px !important;
+  color: white !important;
+  background: #17191c;
+}
+
+#nav-bar-search svg {
+  color: white !important;
+}
