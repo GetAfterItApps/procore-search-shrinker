@@ -4,7 +4,6 @@ div:has(> #nav-bar-search) {
 
 #nav-bar-search {
   width: 35px !important;
-  color: white !important;
   background: #17191c;
 }
 
